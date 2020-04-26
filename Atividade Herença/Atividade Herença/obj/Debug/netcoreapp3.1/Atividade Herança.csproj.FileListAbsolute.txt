@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\bin\Debug\netcoreapp3.1\Atividade Herança.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\obj\Debug\netcoreapp3.1\Atividade Herança.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\obj\Debug\netcoreapp3.1\Atividade Herança.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\obj\Debug\netcoreapp3.1\Atividade Herança.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\obj\Debug\netcoreapp3.1\Atividade Herança.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Atividade Herença\Atividade Herença\obj\Debug\netcoreapp3.1\Atividade Herança.pdb
